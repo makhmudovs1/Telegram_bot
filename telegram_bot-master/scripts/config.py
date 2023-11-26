@@ -1,0 +1,5 @@
+BOT_TOKEN = "5320641929:AAHrXEr9dxm8AK10rmasxxVxcByxyr7zV00"
+
+support_ids = [1970715638]
+ADMINS = [1970715638]
+admin_id = 1970715638
